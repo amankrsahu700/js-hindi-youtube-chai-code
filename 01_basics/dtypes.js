@@ -12,6 +12,7 @@ let isLoggedIn = false //boolean
                         //symbol => unique
                         // object
 console.log(typeof"aman")//type of
+console.log(typeof undefined)
 
 
 
